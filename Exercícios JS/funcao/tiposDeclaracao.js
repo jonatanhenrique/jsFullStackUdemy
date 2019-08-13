@@ -1,4 +1,5 @@
 // function declaration tradicional
+// pode ser chamada mesmo antes da declaração
 
 function soma(a,b){
     return a + b;
